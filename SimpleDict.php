@@ -1,4 +1,6 @@
 <?php
+
+namespace Minuux\Dict;
 /**
  * A simple dictionary
  *
