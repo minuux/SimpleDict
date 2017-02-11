@@ -375,7 +375,7 @@ class SimpleDict
     }
 }
 
-class CharIterator implements Iterator
+class CharIterator implements \Iterator
 {
     /**
      * @var string
